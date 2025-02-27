@@ -5,4 +5,5 @@
 * pepper
 * salt
 ## Instructions
-Mash it all together with care.
+1. add one avocado to a bowl
+2. mash it all together with care
