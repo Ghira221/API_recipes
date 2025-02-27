@@ -5,4 +5,5 @@
 * pepper
 * salt
 ## Instructions
-Mash it all together with care.
+* peel the avocados
+* mash it all together with care
